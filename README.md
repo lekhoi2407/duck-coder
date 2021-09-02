@@ -20,4 +20,4 @@ gia tri cua bien deu reset nen minh phai dung "idf.dat" de luu id.
 Neu cac ban thay code cua minh co van de, hay co y tuong moi thi hay comment cho minh
 hoac gui email toi letrongkhoi2407@gmail.com nhe!
 
-Cam on vi da tai project cua minh!
+Cam on vi da x project cua minh!
