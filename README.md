@@ -8,7 +8,7 @@ Trinh C Co Ban & Nang Cao cung cua Pham Van At nhe.
 Link: https://www.fahasa.com/giao-trinh-c-va-lap-trinh-huong-doi-tuong.html
       https://www.fahasa.com/giao-trinh-ky-thuat-lap-trinh-c-can-ban-nang-cao.html
 
-Ghi chu:
+N:
 + Du lieu cua "Nhap du lieu nguoi muon.exe" duoc ghi vao file "NM.dat".
 + Du lieu cua "Nhap du lieu sach.exe" duoc ghi vao file "Sach.dat".
 + File "idf.dat" dung de luu id lan sau dung vi khi ket thuc chuong trinh, tat ca 
@@ -20,4 +20,4 @@ gia tri cua bien deu reset nen minh phai dung "idf.dat" de luu id.
 Neu cac ban thay code cua minh co van de, hay co y tuong moi thi hay comment cho minh
 hoac gui email toi letrongkhoi2407@gmail.com nhe!
 
-Cam on vi da x project cua minh!
+Cam on vi da xem project cua minh!
